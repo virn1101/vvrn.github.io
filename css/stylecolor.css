@@ -6,7 +6,7 @@ html, body { width:100%; height:100%; } /* just to be sure these are full screen
 .parent
 {
   width: 100%;
-  height: 100%;
+  height: 100vh;
   position:relative;
 }
 
