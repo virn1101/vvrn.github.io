@@ -27,7 +27,7 @@ a.side {
     text-transform: uppercase;
     transition: all .5s ease-out;
     cursor: pointer;
-  
+
 }
 li.menu_list .front {
     background-color: #34465d;
